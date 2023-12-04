@@ -1,5 +1,5 @@
--- ALTER TABLE customer
--- ADD Platinum_Member BOOLEAN
+ALTER TABLE customer
+ADD Platinum_Member BOOLEAN
 
 UPDATE customer
 SET Platinum_Member = TRUE
